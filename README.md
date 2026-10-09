@@ -59,32 +59,6 @@ Get-FileHash data\raw\bank-full.csv -Algorithm SHA256
 
 ---
 
-## 🗺️ BẢN ĐỒ DỰ ÁN — AI ĐÃ LÀM GÌ, TÔI TIẾP THEO LÀM GÌ?
-
-```
-THẮNG (✅ Hoàn thành):
- Task 1.0-1.1  → Thiết lập cấu trúc project
- Task 2.0-2.1  → Bảo toàn raw data + Data Manifest (SHA-256, license, citation)
- Task 2.2-2.3  → EDA phân tích 17 biến + Bảng quyết định tiền xử lý
- Task 2.4-2.5  → Chia tập 80/20 phân tầng (seed=42) + Đánh giá giới hạn
- Task 2.6-2.7  → Rời rạc hóa + Xuất dữ liệu sạch vào data/processed/
-        ↓
-        ↓  Bàn giao: data/processed/processed_exploration.csv (13 cột sạch)
-        ↓
-QUỐC ANH (🔜 Tiếp theo):
- Task 3.0  → Thiết kế Star Schema (Fact + 4 Dimension: job, month, age_group, y)
- Task 3.1  → Xây Data Cube: job × month × age_group → COUNT, YES_COUNT, YES_RATE
- Task 3.2  → Thực hiện 5 phép OLAP (Roll-up, Drill-down, Slice, Dice, Pivot)
- Task 3.3  → Kiểm tra + Viết báo cáo OLAP
-        ↓
-HƯNG (🔜 Song song):
- Task 4.0  → Mã hóa transaction (attribute=value) từ processed_exploration.csv
- Task 4.1  → Chạy Apriori (ít nhất 3 cấu hình min_support)
- ...
-```
-
----
-
 ## 📁 Cấu trúc thư mục
 
 ```
