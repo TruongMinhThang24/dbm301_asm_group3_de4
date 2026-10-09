@@ -1,0 +1,18 @@
+﻿Bien,Van de,Quyet dinh xu ly,Ly do
+age,Lien tuc,Discretize thanh nhom (young/middle/senior),Can de tao item dang age=young cho ARM
+job,Co gia tri unknown,Giu unknown la mot gia tri rieng biet,"unknown co y nghia rieng, khong impute"
+marital,"Nominal, khong co unknown","Giu nguyen, encode attribute=value",Da la gia tri roi rac
+education,"Co gia tri unknown, ordinal",Giu unknown la mot gia tri rieng biet,"unknown co y nghia rieng, khong impute"
+default,Binary yes/no,"Giu nguyen, encode attribute=value",Da la gia tri roi rac
+balance,"Lien tuc, co so am",Discretize thanh nhom (negative/low/mid/high),Can roi rac hoa de tao item
+housing,Binary yes/no,Giu nguyen,Da la gia tri roi rac
+loan,Binary yes/no,Giu nguyen,Da la gia tri roi rac
+contact,Co gia tri unknown,Giu unknown la mot gia tri rieng biet,unknown co y nghia rieng
+day,So roi rac 1-31,"Bo (nhieu cao, it thong tin cho ARM)","Nhieu gia tri, kho tao item co y nghia"
+month,Nominal (thang),Giu nguyen,"Da roi rac, co y nghia theo mua"
+duration,Lien tuc - DATA LEAKAGE,** LOAI KHOI TAP ITEM **,Chi biet sau khi goi xong - khong dung cho ARM
+campaign,So roi rac,Discretize thanh nhom (1 / 2-3 / 4+),Can roi rac hoa de tao item
+pdays,So: -1 = chua lien he truoc,Tao bien nhi phan contacted_before (yes/no),-1 khong phai so do binh thuong
+previous,So roi rac,Giu dang 0 / 1+ (co hay khong lien he truoc),Tuong tu pdays
+poutcome,Co gia tri unknown,Giu unknown la mot gia tri rieng biet,unknown = chua co chien dich truoc
+y,Bien muc tieu binary,"Giu nguyen, dua vao RHS cua luat ket hop",Chi xuat hien o ve phai (consequent)

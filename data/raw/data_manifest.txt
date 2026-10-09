@@ -1,0 +1,55 @@
+# DATA MANIFEST — Bank Marketing Dataset
+# DBM301 · Assignment 1 · Đề 04 · Group 3
+# Phiên bản manifest: 1.0.0
+# Mục đích: Khai phá luật kết hợp mô tả phản hồi chiến dịch tiếp thị ngân hàng.
+
+==================================================
+1. THÔNG TIN CHUNG (General Metadata)
+==================================================
+Tên tập dữ liệu : Bank Marketing Dataset
+Phiên bản       : 1.0.0
+Mục đích        : Khai phá luật kết hợp (Association Rule Mining) — mô tả
+                  những tổ hợp đặc điểm xuất hiện cùng phản hồi y=yes/no.
+                  Không phải bài toán phân loại (classification).
+
+==================================================
+2. BẢNG KÊ KHAI FILE (Data Files Manifest)
+==================================================
+Tên file        : bank-full.csv
+URL nguồn       : https://archive.ics.uci.edu/static/public/222/bank+marketing.zip
+Trang dataset   : https://archive.ics.uci.edu/dataset/222/bank+marketing
+Ngày tải        : 2026-10-08
+Phạm vi         : Dữ liệu chiến dịch tiếp thị qua điện thoại của ngân hàng Bồ
+                  Đào Nha, giai đoạn tháng 5/2008 đến tháng 11/2010.
+                  Gồm 45.211 quan sát và 17 thuộc tính. Biến mục tiêu y cho
+                  biết khách hàng có đăng ký tiền gửi có kỳ hạn hay không.
+SHA-256         : D1513EC63B385506F7CFCE9F2C5CAA9FE99E7BA4E8C3FA264B3AAF0F849ED32D
+Giấy phép       : Creative Commons Attribution 4.0 International (CC BY 4.0)
+                  https://creativecommons.org/licenses/by/4.0/
+
+==================================================
+3. TRÍCH DẪN (Citation)
+==================================================
+Định dạng APA 7th:
+  Moro, S., Rita, P., & Cortez, P. (2012). Bank Marketing [Dataset].
+  UCI Machine Learning Repository. https://doi.org/10.24432/C5K306
+
+Định dạng BibTeX:
+  @dataset{moro2012bankmarketing,
+    author    = {Moro, S. and Rita, P. and Cortez, P.},
+    title     = {Bank Marketing},
+    year      = {2012},
+    publisher = {UCI Machine Learning Repository},
+    doi       = {10.24432/C5K306},
+    url       = {https://archive.ics.uci.edu/dataset/222/bank+marketing}
+  }
+
+==================================================
+4. GHI CHÚ SỬ DỤNG
+==================================================
+- Dữ liệu gốc (bank-full.csv) được giữ BẤT BIẾN trong thư mục data/raw/.
+- Không dùng bản sao không rõ nguồn.
+- Nguồn công khai nhưng vẫn bắt buộc ghi công (CC BY 4.0).
+- Có thể xác minh tính toàn vẹn bằng SHA-256 ở trên.
+- File manifest máy đọc được: xem data/raw/manifest.json
+==================================================

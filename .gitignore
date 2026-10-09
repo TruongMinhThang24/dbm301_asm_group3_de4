@@ -1,5 +1,10 @@
 # Data
-/data/
+
+/data/interim/*.csv
+!/data/raw/data_manifest.txt
+!/data/raw/manifest.json
+!/data/processed/
+!/data/**/.gitkeep
 
 # Mac OS-specific storage files
 .DS_Store

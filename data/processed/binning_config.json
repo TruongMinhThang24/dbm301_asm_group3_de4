@@ -1,0 +1,43 @@
+{
+    "age": {
+        "bins": [
+            0,
+            29,
+            59,
+            120
+        ],
+        "labels": [
+            "young",
+            "middle_age",
+            "senior"
+        ]
+    },
+    "balance": {
+        "bins": [
+            -Infinity,
+            -0.001,
+            500,
+            2000,
+            Infinity
+        ],
+        "labels": [
+            "negative",
+            "low",
+            "medium",
+            "high"
+        ]
+    },
+    "campaign": {
+        "bins": [
+            0,
+            1,
+            3,
+            Infinity
+        ],
+        "labels": [
+            "1_call",
+            "2_3_calls",
+            "4plus_calls"
+        ]
+    }
+}
