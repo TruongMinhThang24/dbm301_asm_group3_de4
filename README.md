@@ -4,6 +4,22 @@
 > **Dataset:** UCI Bank Marketing — `bank-full.csv` (45.211 dòng, 17 thuộc tính)  
 > **Seed cố định:** `42` (xuyên suốt toàn bộ dự án)
 
+## 🧱 Cấu trúc và nguồn tham khảo
+
+Dự án sử dụng cấu trúc thư mục theo định hướng của **Cookiecutter Data Science (CCDS) phiên bản 2**,
+một mẫu tổ chức dự án khoa học dữ liệu có cấu trúc rõ ràng và linh hoạt. Cấu trúc này giúp tách
+dữ liệu gốc, dữ liệu trung gian, dữ liệu đã xử lý, notebook, mã nguồn, tài liệu và kết quả phân tích.
+
+Repo này điều chỉnh mẫu CCDS cho yêu cầu bài tập DBM301: dữ liệu được tổ chức trong `data/`,
+phân tích và tiền xử lý nằm trong `notebooks/`, mã nguồn dự án trong `dbm301/`, tài liệu trong
+`docs/` và hình/báo cáo đầu ra trong `reports/`.
+
+**Nguồn tham khảo:**
+
+- [Cookiecutter Data Science — trang dự án chính thức](https://cookiecutter-data-science.drivendata.org/)
+- [Cookiecutter Data Science — mã nguồn và mẫu dự án](https://github.com/drivendataorg/cookiecutter-data-science)
+- [Cookiecutter Data Science — hướng dẫn sử dụng mẫu](https://cookiecutter-data-science.drivendata.org/using-the-template/)
+
 ---
 
 ## ⚡ THÀNH VIÊN MỚI — ĐỌC PHẦN NÀY TRƯỚC (3 phút)
