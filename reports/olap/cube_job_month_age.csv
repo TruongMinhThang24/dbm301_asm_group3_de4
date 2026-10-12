@@ -1,0 +1,617 @@
+cuboid,job,month,age_group,obs_count,yes_count,yes_rate
+"(job, month, age_group)",admin.,apr,middle_age,295,44,0.1492
+"(job, month, age_group)",admin.,apr,senior,4,1,0.25
+"(job, month, age_group)",admin.,apr,young,40,13,0.325
+"(job, month, age_group)",admin.,aug,middle_age,262,45,0.1718
+"(job, month, age_group)",admin.,aug,senior,11,4,0.3636
+"(job, month, age_group)",admin.,aug,young,17,4,0.2353
+"(job, month, age_group)",admin.,dec,middle_age,15,8,0.5333
+"(job, month, age_group)",admin.,dec,senior,1,1,1.0
+"(job, month, age_group)",admin.,dec,young,2,1,0.5
+"(job, month, age_group)",admin.,feb,middle_age,197,30,0.1523
+"(job, month, age_group)",admin.,feb,senior,3,2,0.6667
+"(job, month, age_group)",admin.,feb,young,46,11,0.2391
+"(job, month, age_group)",admin.,jan,middle_age,107,12,0.1121
+"(job, month, age_group)",admin.,jan,senior,3,0,0.0
+"(job, month, age_group)",admin.,jan,young,31,2,0.0645
+"(job, month, age_group)",admin.,jul,middle_age,581,40,0.0688
+"(job, month, age_group)",admin.,jul,senior,7,2,0.2857
+"(job, month, age_group)",admin.,jul,young,110,10,0.0909
+"(job, month, age_group)",admin.,jun,middle_age,393,47,0.1196
+"(job, month, age_group)",admin.,jun,senior,5,3,0.6
+"(job, month, age_group)",admin.,jun,young,71,12,0.169
+"(job, month, age_group)",admin.,mar,middle_age,35,15,0.4286
+"(job, month, age_group)",admin.,mar,senior,4,3,0.75
+"(job, month, age_group)",admin.,mar,young,16,2,0.125
+"(job, month, age_group)",admin.,may,middle_age,1145,86,0.0751
+"(job, month, age_group)",admin.,may,senior,15,0,0.0
+"(job, month, age_group)",admin.,may,young,240,22,0.0917
+"(job, month, age_group)",admin.,nov,middle_age,333,28,0.0841
+"(job, month, age_group)",admin.,nov,senior,1,0,0.0
+"(job, month, age_group)",admin.,nov,young,7,3,0.4286
+"(job, month, age_group)",admin.,oct,middle_age,69,21,0.3043
+"(job, month, age_group)",admin.,oct,senior,4,2,0.5
+"(job, month, age_group)",admin.,oct,young,13,7,0.5385
+"(job, month, age_group)",admin.,sep,middle_age,38,18,0.4737
+"(job, month, age_group)",admin.,sep,senior,7,4,0.5714
+"(job, month, age_group)",admin.,sep,young,13,6,0.4615
+"(job, month, age_group)",blue-collar,apr,middle_age,550,53,0.0964
+"(job, month, age_group)",blue-collar,apr,senior,5,3,0.6
+"(job, month, age_group)",blue-collar,apr,young,69,9,0.1304
+"(job, month, age_group)",blue-collar,aug,middle_age,447,43,0.0962
+"(job, month, age_group)",blue-collar,aug,senior,20,3,0.15
+"(job, month, age_group)",blue-collar,aug,young,4,3,0.75
+"(job, month, age_group)",blue-collar,dec,middle_age,6,1,0.1667
+"(job, month, age_group)",blue-collar,dec,young,5,3,0.6
+"(job, month, age_group)",blue-collar,feb,middle_age,274,23,0.0839
+"(job, month, age_group)",blue-collar,feb,senior,4,0,0.0
+"(job, month, age_group)",blue-collar,feb,young,44,5,0.1136
+"(job, month, age_group)",blue-collar,jan,middle_age,133,6,0.0451
+"(job, month, age_group)",blue-collar,jan,senior,1,1,1.0
+"(job, month, age_group)",blue-collar,jan,young,17,1,0.0588
+"(job, month, age_group)",blue-collar,jul,middle_age,937,72,0.0768
+"(job, month, age_group)",blue-collar,jul,senior,9,1,0.1111
+"(job, month, age_group)",blue-collar,jul,young,168,20,0.119
+"(job, month, age_group)",blue-collar,jun,middle_age,889,54,0.0607
+"(job, month, age_group)",blue-collar,jun,senior,8,0,0.0
+"(job, month, age_group)",blue-collar,jun,young,119,19,0.1597
+"(job, month, age_group)",blue-collar,mar,middle_age,15,4,0.2667
+"(job, month, age_group)",blue-collar,mar,young,4,3,0.75
+"(job, month, age_group)",blue-collar,may,middle_age,3036,145,0.0478
+"(job, month, age_group)",blue-collar,may,senior,27,4,0.1481
+"(job, month, age_group)",blue-collar,may,young,493,35,0.071
+"(job, month, age_group)",blue-collar,nov,middle_age,475,31,0.0653
+"(job, month, age_group)",blue-collar,nov,senior,1,1,1.0
+"(job, month, age_group)",blue-collar,nov,young,4,2,0.5
+"(job, month, age_group)",blue-collar,oct,middle_age,27,8,0.2963
+"(job, month, age_group)",blue-collar,oct,senior,6,0,0.0
+"(job, month, age_group)",blue-collar,oct,young,9,5,0.5556
+"(job, month, age_group)",blue-collar,sep,middle_age,21,11,0.5238
+"(job, month, age_group)",blue-collar,sep,young,3,2,0.6667
+"(job, month, age_group)",entrepreneur,apr,middle_age,55,6,0.1091
+"(job, month, age_group)",entrepreneur,apr,senior,1,0,0.0
+"(job, month, age_group)",entrepreneur,apr,young,2,0,0.0
+"(job, month, age_group)",entrepreneur,aug,middle_age,63,6,0.0952
+"(job, month, age_group)",entrepreneur,aug,senior,4,2,0.5
+"(job, month, age_group)",entrepreneur,aug,young,2,2,1.0
+"(job, month, age_group)",entrepreneur,dec,middle_age,3,1,0.3333
+"(job, month, age_group)",entrepreneur,feb,middle_age,56,5,0.0893
+"(job, month, age_group)",entrepreneur,feb,senior,2,1,0.5
+"(job, month, age_group)",entrepreneur,feb,young,6,0,0.0
+"(job, month, age_group)",entrepreneur,jan,middle_age,28,1,0.0357
+"(job, month, age_group)",entrepreneur,jan,senior,1,1,1.0
+"(job, month, age_group)",entrepreneur,jan,young,4,0,0.0
+"(job, month, age_group)",entrepreneur,jul,middle_age,210,25,0.119
+"(job, month, age_group)",entrepreneur,jul,senior,3,0,0.0
+"(job, month, age_group)",entrepreneur,jul,young,20,1,0.05
+"(job, month, age_group)",entrepreneur,jun,middle_age,150,9,0.06
+"(job, month, age_group)",entrepreneur,jun,senior,4,0,0.0
+"(job, month, age_group)",entrepreneur,jun,young,7,0,0.0
+"(job, month, age_group)",entrepreneur,mar,middle_age,2,2,1.0
+"(job, month, age_group)",entrepreneur,may,middle_age,300,11,0.0367
+"(job, month, age_group)",entrepreneur,may,senior,2,0,0.0
+"(job, month, age_group)",entrepreneur,may,young,37,2,0.0541
+"(job, month, age_group)",entrepreneur,nov,middle_age,200,14,0.07
+"(job, month, age_group)",entrepreneur,nov,senior,2,1,0.5
+"(job, month, age_group)",entrepreneur,oct,middle_age,10,4,0.4
+"(job, month, age_group)",entrepreneur,oct,young,1,1,1.0
+"(job, month, age_group)",entrepreneur,sep,middle_age,8,5,0.625
+"(job, month, age_group)",entrepreneur,sep,senior,2,1,0.5
+"(job, month, age_group)",entrepreneur,sep,young,1,0,0.0
+"(job, month, age_group)",housemaid,apr,middle_age,32,5,0.1562
+"(job, month, age_group)",housemaid,apr,senior,10,3,0.3
+"(job, month, age_group)",housemaid,apr,young,2,1,0.5
+"(job, month, age_group)",housemaid,aug,middle_age,202,10,0.0495
+"(job, month, age_group)",housemaid,aug,senior,24,5,0.2083
+"(job, month, age_group)",housemaid,aug,young,1,1,1.0
+"(job, month, age_group)",housemaid,dec,middle_age,2,0,0.0
+"(job, month, age_group)",housemaid,dec,senior,3,1,0.3333
+"(job, month, age_group)",housemaid,dec,young,1,1,1.0
+"(job, month, age_group)",housemaid,feb,middle_age,34,0,0.0
+"(job, month, age_group)",housemaid,feb,senior,6,3,0.5
+"(job, month, age_group)",housemaid,feb,young,3,0,0.0
+"(job, month, age_group)",housemaid,jan,middle_age,19,1,0.0526
+"(job, month, age_group)",housemaid,jan,senior,2,0,0.0
+"(job, month, age_group)",housemaid,jan,young,1,0,0.0
+"(job, month, age_group)",housemaid,jul,middle_age,197,15,0.0761
+"(job, month, age_group)",housemaid,jul,senior,9,0,0.0
+"(job, month, age_group)",housemaid,jul,young,21,0,0.0
+"(job, month, age_group)",housemaid,jun,middle_age,198,8,0.0404
+"(job, month, age_group)",housemaid,jun,senior,10,1,0.1
+"(job, month, age_group)",housemaid,jun,young,2,0,0.0
+"(job, month, age_group)",housemaid,mar,middle_age,9,4,0.4444
+"(job, month, age_group)",housemaid,mar,senior,3,2,0.6667
+"(job, month, age_group)",housemaid,may,middle_age,100,6,0.06
+"(job, month, age_group)",housemaid,may,senior,3,0,0.0
+"(job, month, age_group)",housemaid,may,young,16,2,0.125
+"(job, month, age_group)",housemaid,nov,middle_age,64,4,0.0625
+"(job, month, age_group)",housemaid,nov,senior,3,1,0.3333
+"(job, month, age_group)",housemaid,oct,middle_age,17,6,0.3529
+"(job, month, age_group)",housemaid,oct,senior,5,1,0.2
+"(job, month, age_group)",housemaid,sep,middle_age,10,3,0.3
+"(job, month, age_group)",housemaid,sep,senior,4,1,0.25
+"(job, month, age_group)",management,apr,middle_age,394,97,0.2462
+"(job, month, age_group)",management,apr,senior,13,6,0.4615
+"(job, month, age_group)",management,apr,young,50,21,0.42
+"(job, month, age_group)",management,aug,middle_age,1483,142,0.0958
+"(job, month, age_group)",management,aug,senior,32,10,0.3125
+"(job, month, age_group)",management,aug,young,29,6,0.2069
+"(job, month, age_group)",management,dec,middle_age,34,18,0.5294
+"(job, month, age_group)",management,dec,young,6,2,0.3333
+"(job, month, age_group)",management,feb,middle_age,364,75,0.206
+"(job, month, age_group)",management,feb,senior,15,6,0.4
+"(job, month, age_group)",management,feb,young,54,12,0.2222
+"(job, month, age_group)",management,jan,middle_age,196,18,0.0918
+"(job, month, age_group)",management,jan,senior,3,1,0.3333
+"(job, month, age_group)",management,jan,young,29,2,0.069
+"(job, month, age_group)",management,jul,middle_age,943,78,0.0827
+"(job, month, age_group)",management,jul,senior,18,3,0.1667
+"(job, month, age_group)",management,jul,young,120,14,0.1167
+"(job, month, age_group)",management,jun,middle_age,649,82,0.1263
+"(job, month, age_group)",management,jun,senior,20,4,0.2
+"(job, month, age_group)",management,jun,young,65,21,0.3231
+"(job, month, age_group)",management,mar,middle_age,99,58,0.5859
+"(job, month, age_group)",management,mar,senior,6,3,0.5
+"(job, month, age_group)",management,mar,young,19,11,0.5789
+"(job, month, age_group)",management,may,middle_age,1555,107,0.0688
+"(job, month, age_group)",management,may,senior,22,5,0.2273
+"(job, month, age_group)",management,may,young,179,26,0.1453
+"(job, month, age_group)",management,nov,middle_age,822,74,0.09
+"(job, month, age_group)",management,nov,senior,10,5,0.5
+"(job, month, age_group)",management,nov,young,7,4,0.5714
+"(job, month, age_group)",management,oct,middle_age,113,56,0.4956
+"(job, month, age_group)",management,oct,senior,15,8,0.5333
+"(job, month, age_group)",management,oct,young,16,4,0.25
+"(job, month, age_group)",management,sep,middle_age,105,47,0.4476
+"(job, month, age_group)",management,sep,senior,4,2,0.5
+"(job, month, age_group)",management,sep,young,22,13,0.5909
+"(job, month, age_group)",retired,apr,middle_age,24,6,0.25
+"(job, month, age_group)",retired,apr,senior,91,32,0.3516
+"(job, month, age_group)",retired,apr,young,1,0,0.0
+"(job, month, age_group)",retired,aug,middle_age,170,14,0.0824
+"(job, month, age_group)",retired,aug,senior,145,36,0.2483
+"(job, month, age_group)",retired,dec,middle_age,5,2,0.4
+"(job, month, age_group)",retired,dec,senior,31,16,0.5161
+"(job, month, age_group)",retired,feb,middle_age,40,6,0.15
+"(job, month, age_group)",retired,feb,senior,95,44,0.4632
+"(job, month, age_group)",retired,jan,middle_age,29,1,0.0345
+"(job, month, age_group)",retired,jan,senior,43,19,0.4419
+"(job, month, age_group)",retired,jul,middle_age,192,12,0.0625
+"(job, month, age_group)",retired,jul,senior,89,30,0.3371
+"(job, month, age_group)",retired,jun,middle_age,184,15,0.0815
+"(job, month, age_group)",retired,jun,senior,56,13,0.2321
+"(job, month, age_group)",retired,mar,middle_age,6,3,0.5
+"(job, month, age_group)",retired,mar,senior,51,30,0.5882
+"(job, month, age_group)",retired,may,middle_age,204,14,0.0686
+"(job, month, age_group)",retired,may,senior,66,18,0.2727
+"(job, month, age_group)",retired,may,young,2,0,0.0
+"(job, month, age_group)",retired,nov,middle_age,58,6,0.1034
+"(job, month, age_group)",retired,nov,senior,51,25,0.4902
+"(job, month, age_group)",retired,oct,middle_age,11,4,0.3636
+"(job, month, age_group)",retired,oct,senior,100,39,0.39
+"(job, month, age_group)",retired,sep,middle_age,3,1,0.3333
+"(job, month, age_group)",retired,sep,senior,65,30,0.4615
+"(job, month, age_group)",self-employed,apr,middle_age,50,9,0.18
+"(job, month, age_group)",self-employed,apr,senior,5,5,1.0
+"(job, month, age_group)",self-employed,apr,young,13,4,0.3077
+"(job, month, age_group)",self-employed,aug,middle_age,152,14,0.0921
+"(job, month, age_group)",self-employed,aug,senior,6,1,0.1667
+"(job, month, age_group)",self-employed,aug,young,6,2,0.3333
+"(job, month, age_group)",self-employed,dec,middle_age,5,1,0.2
+"(job, month, age_group)",self-employed,dec,senior,1,1,1.0
+"(job, month, age_group)",self-employed,feb,middle_age,65,5,0.0769
+"(job, month, age_group)",self-employed,feb,senior,3,2,0.6667
+"(job, month, age_group)",self-employed,feb,young,18,3,0.1667
+"(job, month, age_group)",self-employed,jan,middle_age,29,1,0.0345
+"(job, month, age_group)",self-employed,jan,young,12,2,0.1667
+"(job, month, age_group)",self-employed,jul,middle_age,163,12,0.0736
+"(job, month, age_group)",self-employed,jul,senior,4,2,0.5
+"(job, month, age_group)",self-employed,jul,young,31,2,0.0645
+"(job, month, age_group)",self-employed,jun,middle_age,158,17,0.1076
+"(job, month, age_group)",self-employed,jun,senior,2,0,0.0
+"(job, month, age_group)",self-employed,jun,young,14,3,0.2143
+"(job, month, age_group)",self-employed,mar,middle_age,7,4,0.5714
+"(job, month, age_group)",self-employed,mar,senior,2,0,0.0
+"(job, month, age_group)",self-employed,mar,young,4,2,0.5
+"(job, month, age_group)",self-employed,may,middle_age,246,14,0.0569
+"(job, month, age_group)",self-employed,may,senior,2,0,0.0
+"(job, month, age_group)",self-employed,may,young,30,4,0.1333
+"(job, month, age_group)",self-employed,nov,middle_age,178,12,0.0674
+"(job, month, age_group)",self-employed,nov,senior,1,0,0.0
+"(job, month, age_group)",self-employed,nov,young,3,2,0.6667
+"(job, month, age_group)",self-employed,oct,middle_age,12,6,0.5
+"(job, month, age_group)",self-employed,oct,senior,4,4,1.0
+"(job, month, age_group)",self-employed,oct,young,6,4,0.6667
+"(job, month, age_group)",self-employed,sep,middle_age,9,3,0.3333
+"(job, month, age_group)",self-employed,sep,senior,1,0,0.0
+"(job, month, age_group)",self-employed,sep,young,1,1,1.0
+"(job, month, age_group)",services,apr,middle_age,195,16,0.0821
+"(job, month, age_group)",services,apr,young,25,5,0.2
+"(job, month, age_group)",services,aug,middle_age,207,22,0.1063
+"(job, month, age_group)",services,aug,senior,7,1,0.1429
+"(job, month, age_group)",services,aug,young,7,0,0.0
+"(job, month, age_group)",services,dec,middle_age,7,5,0.7143
+"(job, month, age_group)",services,dec,young,4,3,0.75
+"(job, month, age_group)",services,feb,middle_age,142,12,0.0845
+"(job, month, age_group)",services,feb,senior,2,0,0.0
+"(job, month, age_group)",services,feb,young,29,4,0.1379
+"(job, month, age_group)",services,jan,middle_age,84,6,0.0714
+"(job, month, age_group)",services,jan,young,24,3,0.125
+"(job, month, age_group)",services,jul,middle_age,507,35,0.069
+"(job, month, age_group)",services,jul,senior,1,0,0.0
+"(job, month, age_group)",services,jul,young,124,16,0.129
+"(job, month, age_group)",services,jun,middle_age,357,27,0.0756
+"(job, month, age_group)",services,jun,young,56,12,0.2143
+"(job, month, age_group)",services,mar,middle_age,16,11,0.6875
+"(job, month, age_group)",services,mar,young,2,1,0.5
+"(job, month, age_group)",services,may,middle_age,1046,64,0.0612
+"(job, month, age_group)",services,may,senior,4,0,0.0
+"(job, month, age_group)",services,may,young,230,16,0.0696
+"(job, month, age_group)",services,nov,middle_age,239,22,0.0921
+"(job, month, age_group)",services,nov,senior,2,1,0.5
+"(job, month, age_group)",services,nov,young,2,0,0.0
+"(job, month, age_group)",services,oct,middle_age,11,7,0.6364
+"(job, month, age_group)",services,oct,senior,1,0,0.0
+"(job, month, age_group)",services,oct,young,2,1,0.5
+"(job, month, age_group)",services,sep,middle_age,10,6,0.6
+"(job, month, age_group)",services,sep,young,5,2,0.4
+"(job, month, age_group)",student,apr,middle_age,13,4,0.3077
+"(job, month, age_group)",student,apr,young,61,28,0.459
+"(job, month, age_group)",student,aug,middle_age,20,5,0.25
+"(job, month, age_group)",student,aug,young,72,24,0.3333
+"(job, month, age_group)",student,dec,middle_age,2,1,0.5
+"(job, month, age_group)",student,dec,young,9,3,0.3333
+"(job, month, age_group)",student,feb,middle_age,23,5,0.2174
+"(job, month, age_group)",student,feb,young,47,17,0.3617
+"(job, month, age_group)",student,jan,middle_age,7,1,0.1429
+"(job, month, age_group)",student,jan,young,28,7,0.25
+"(job, month, age_group)",student,jul,middle_age,12,3,0.25
+"(job, month, age_group)",student,jul,young,45,20,0.4444
+"(job, month, age_group)",student,jun,middle_age,27,5,0.1852
+"(job, month, age_group)",student,jun,young,44,11,0.25
+"(job, month, age_group)",student,mar,middle_age,10,3,0.3
+"(job, month, age_group)",student,mar,young,23,10,0.4348
+"(job, month, age_group)",student,may,middle_age,34,4,0.1176
+"(job, month, age_group)",student,may,young,168,25,0.1488
+"(job, month, age_group)",student,nov,middle_age,22,3,0.1364
+"(job, month, age_group)",student,nov,young,19,11,0.5789
+"(job, month, age_group)",student,oct,middle_age,4,2,0.5
+"(job, month, age_group)",student,oct,young,26,11,0.4231
+"(job, month, age_group)",student,sep,middle_age,7,2,0.2857
+"(job, month, age_group)",student,sep,young,35,14,0.4
+"(job, month, age_group)",technician,apr,middle_age,288,64,0.2222
+"(job, month, age_group)",technician,apr,senior,2,1,0.5
+"(job, month, age_group)",technician,apr,young,48,12,0.25
+"(job, month, age_group)",technician,aug,middle_age,1439,109,0.0757
+"(job, month, age_group)",technician,aug,senior,17,6,0.3529
+"(job, month, age_group)",technician,aug,young,16,6,0.375
+"(job, month, age_group)",technician,dec,middle_age,23,7,0.3043
+"(job, month, age_group)",technician,dec,senior,1,0,0.0
+"(job, month, age_group)",technician,dec,young,3,2,0.6667
+"(job, month, age_group)",technician,feb,middle_age,273,38,0.1392
+"(job, month, age_group)",technician,feb,senior,8,3,0.375
+"(job, month, age_group)",technician,feb,young,46,11,0.2391
+"(job, month, age_group)",technician,jan,middle_age,153,12,0.0784
+"(job, month, age_group)",technician,jan,senior,6,1,0.1667
+"(job, month, age_group)",technician,jan,young,37,3,0.0811
+"(job, month, age_group)",technician,jul,middle_age,714,60,0.084
+"(job, month, age_group)",technician,jul,senior,11,2,0.1818
+"(job, month, age_group)",technician,jul,young,127,17,0.1339
+"(job, month, age_group)",technician,jun,middle_age,477,50,0.1048
+"(job, month, age_group)",technician,jun,senior,7,1,0.1429
+"(job, month, age_group)",technician,jun,young,57,9,0.1579
+"(job, month, age_group)",technician,mar,middle_age,25,10,0.4
+"(job, month, age_group)",technician,mar,senior,1,1,1.0
+"(job, month, age_group)",technician,mar,young,13,8,0.6154
+"(job, month, age_group)",technician,may,middle_age,1358,87,0.0641
+"(job, month, age_group)",technician,may,senior,10,3,0.3
+"(job, month, age_group)",technician,may,young,254,19,0.0748
+"(job, month, age_group)",technician,nov,middle_age,503,48,0.0954
+"(job, month, age_group)",technician,nov,senior,5,0,0.0
+"(job, month, age_group)",technician,nov,young,8,4,0.5
+"(job, month, age_group)",technician,oct,middle_age,66,39,0.5909
+"(job, month, age_group)",technician,oct,senior,4,2,0.5
+"(job, month, age_group)",technician,oct,young,14,6,0.4286
+"(job, month, age_group)",technician,sep,middle_age,46,19,0.413
+"(job, month, age_group)",technician,sep,senior,2,0,0.0
+"(job, month, age_group)",technician,sep,young,6,3,0.5
+"(job, month, age_group)",unemployed,apr,middle_age,39,11,0.2821
+"(job, month, age_group)",unemployed,apr,senior,2,0,0.0
+"(job, month, age_group)",unemployed,apr,young,9,4,0.4444
+"(job, month, age_group)",unemployed,aug,middle_age,64,13,0.2031
+"(job, month, age_group)",unemployed,aug,senior,2,0,0.0
+"(job, month, age_group)",unemployed,aug,young,5,2,0.4
+"(job, month, age_group)",unemployed,dec,middle_age,8,6,0.75
+"(job, month, age_group)",unemployed,feb,middle_age,140,21,0.15
+"(job, month, age_group)",unemployed,feb,senior,1,0,0.0
+"(job, month, age_group)",unemployed,feb,young,27,2,0.0741
+"(job, month, age_group)",unemployed,jan,middle_age,58,7,0.1207
+"(job, month, age_group)",unemployed,jan,young,19,2,0.1053
+"(job, month, age_group)",unemployed,jul,middle_age,117,15,0.1282
+"(job, month, age_group)",unemployed,jul,senior,1,1,1.0
+"(job, month, age_group)",unemployed,jul,young,21,4,0.1905
+"(job, month, age_group)",unemployed,jun,middle_age,125,16,0.128
+"(job, month, age_group)",unemployed,jun,young,9,1,0.1111
+"(job, month, age_group)",unemployed,mar,middle_age,15,8,0.5333
+"(job, month, age_group)",unemployed,mar,senior,1,1,1.0
+"(job, month, age_group)",unemployed,mar,young,1,0,0.0
+"(job, month, age_group)",unemployed,may,middle_age,185,11,0.0595
+"(job, month, age_group)",unemployed,may,senior,2,1,0.5
+"(job, month, age_group)",unemployed,may,young,29,6,0.2069
+"(job, month, age_group)",unemployed,nov,middle_age,107,11,0.1028
+"(job, month, age_group)",unemployed,nov,senior,1,0,0.0
+"(job, month, age_group)",unemployed,nov,young,3,1,0.3333
+"(job, month, age_group)",unemployed,oct,middle_age,14,4,0.2857
+"(job, month, age_group)",unemployed,oct,young,3,2,0.6667
+"(job, month, age_group)",unemployed,sep,middle_age,9,6,0.6667
+"(job, month, age_group)",unemployed,sep,senior,2,1,0.5
+"(job, month, age_group)",unemployed,sep,young,5,1,0.2
+"(job, month, age_group)",unknown,apr,middle_age,5,4,0.8
+"(job, month, age_group)",unknown,apr,senior,1,1,1.0
+"(job, month, age_group)",unknown,aug,middle_age,45,2,0.0444
+"(job, month, age_group)",unknown,aug,senior,5,2,0.4
+"(job, month, age_group)",unknown,dec,middle_age,1,0,0.0
+"(job, month, age_group)",unknown,feb,middle_age,7,1,0.1429
+"(job, month, age_group)",unknown,feb,young,4,2,0.5
+"(job, month, age_group)",unknown,jan,middle_age,10,2,0.2
+"(job, month, age_group)",unknown,jan,senior,2,0,0.0
+"(job, month, age_group)",unknown,jan,young,3,1,0.3333
+"(job, month, age_group)",unknown,jul,middle_age,20,1,0.05
+"(job, month, age_group)",unknown,jul,senior,4,0,0.0
+"(job, month, age_group)",unknown,jul,young,1,0,0.0
+"(job, month, age_group)",unknown,jun,middle_age,72,1,0.0139
+"(job, month, age_group)",unknown,jun,senior,2,0,0.0
+"(job, month, age_group)",unknown,mar,senior,2,0,0.0
+"(job, month, age_group)",unknown,may,middle_age,18,2,0.1111
+"(job, month, age_group)",unknown,may,young,4,0,0.0
+"(job, month, age_group)",unknown,nov,middle_age,10,2,0.2
+"(job, month, age_group)",unknown,nov,senior,1,0,0.0
+"(job, month, age_group)",unknown,nov,young,1,0,0.0
+"(job, month, age_group)",unknown,oct,middle_age,6,4,0.6667
+"(job, month, age_group)",unknown,oct,senior,2,0,0.0
+"(job, month, age_group)",unknown,oct,young,1,1,1.0
+"(job, month, age_group)",unknown,sep,middle_age,3,2,0.6667
+"(job, month, age_group)",unknown,sep,senior,4,0,0.0
+"(job, month)",admin.,apr,ALL,339,58,0.1711
+"(job, month)",admin.,aug,ALL,290,53,0.1828
+"(job, month)",admin.,dec,ALL,18,10,0.5556
+"(job, month)",admin.,feb,ALL,246,43,0.1748
+"(job, month)",admin.,jan,ALL,141,14,0.0993
+"(job, month)",admin.,jul,ALL,698,52,0.0745
+"(job, month)",admin.,jun,ALL,469,62,0.1322
+"(job, month)",admin.,mar,ALL,55,20,0.3636
+"(job, month)",admin.,may,ALL,1400,108,0.0771
+"(job, month)",admin.,nov,ALL,341,31,0.0909
+"(job, month)",admin.,oct,ALL,86,30,0.3488
+"(job, month)",admin.,sep,ALL,58,28,0.4828
+"(job, month)",blue-collar,apr,ALL,624,65,0.1042
+"(job, month)",blue-collar,aug,ALL,471,49,0.104
+"(job, month)",blue-collar,dec,ALL,11,4,0.3636
+"(job, month)",blue-collar,feb,ALL,322,28,0.087
+"(job, month)",blue-collar,jan,ALL,151,8,0.053
+"(job, month)",blue-collar,jul,ALL,1114,93,0.0835
+"(job, month)",blue-collar,jun,ALL,1016,73,0.0719
+"(job, month)",blue-collar,mar,ALL,19,7,0.3684
+"(job, month)",blue-collar,may,ALL,3556,184,0.0517
+"(job, month)",blue-collar,nov,ALL,480,34,0.0708
+"(job, month)",blue-collar,oct,ALL,42,13,0.3095
+"(job, month)",blue-collar,sep,ALL,24,13,0.5417
+"(job, month)",entrepreneur,apr,ALL,58,6,0.1034
+"(job, month)",entrepreneur,aug,ALL,69,10,0.1449
+"(job, month)",entrepreneur,dec,ALL,3,1,0.3333
+"(job, month)",entrepreneur,feb,ALL,64,6,0.0938
+"(job, month)",entrepreneur,jan,ALL,33,2,0.0606
+"(job, month)",entrepreneur,jul,ALL,233,26,0.1116
+"(job, month)",entrepreneur,jun,ALL,161,9,0.0559
+"(job, month)",entrepreneur,mar,ALL,2,2,1.0
+"(job, month)",entrepreneur,may,ALL,339,13,0.0383
+"(job, month)",entrepreneur,nov,ALL,202,15,0.0743
+"(job, month)",entrepreneur,oct,ALL,11,5,0.4545
+"(job, month)",entrepreneur,sep,ALL,11,6,0.5455
+"(job, month)",housemaid,apr,ALL,44,9,0.2045
+"(job, month)",housemaid,aug,ALL,227,16,0.0705
+"(job, month)",housemaid,dec,ALL,6,2,0.3333
+"(job, month)",housemaid,feb,ALL,43,3,0.0698
+"(job, month)",housemaid,jan,ALL,22,1,0.0455
+"(job, month)",housemaid,jul,ALL,227,15,0.0661
+"(job, month)",housemaid,jun,ALL,210,9,0.0429
+"(job, month)",housemaid,mar,ALL,12,6,0.5
+"(job, month)",housemaid,may,ALL,119,8,0.0672
+"(job, month)",housemaid,nov,ALL,67,5,0.0746
+"(job, month)",housemaid,oct,ALL,22,7,0.3182
+"(job, month)",housemaid,sep,ALL,14,4,0.2857
+"(job, month)",management,apr,ALL,457,124,0.2713
+"(job, month)",management,aug,ALL,1544,158,0.1023
+"(job, month)",management,dec,ALL,40,20,0.5
+"(job, month)",management,feb,ALL,433,93,0.2148
+"(job, month)",management,jan,ALL,228,21,0.0921
+"(job, month)",management,jul,ALL,1081,95,0.0879
+"(job, month)",management,jun,ALL,734,107,0.1458
+"(job, month)",management,mar,ALL,124,72,0.5806
+"(job, month)",management,may,ALL,1756,138,0.0786
+"(job, month)",management,nov,ALL,839,83,0.0989
+"(job, month)",management,oct,ALL,144,68,0.4722
+"(job, month)",management,sep,ALL,131,62,0.4733
+"(job, month)",retired,apr,ALL,116,38,0.3276
+"(job, month)",retired,aug,ALL,315,50,0.1587
+"(job, month)",retired,dec,ALL,36,18,0.5
+"(job, month)",retired,feb,ALL,135,50,0.3704
+"(job, month)",retired,jan,ALL,72,20,0.2778
+"(job, month)",retired,jul,ALL,281,42,0.1495
+"(job, month)",retired,jun,ALL,240,28,0.1167
+"(job, month)",retired,mar,ALL,57,33,0.5789
+"(job, month)",retired,may,ALL,272,32,0.1176
+"(job, month)",retired,nov,ALL,109,31,0.2844
+"(job, month)",retired,oct,ALL,111,43,0.3874
+"(job, month)",retired,sep,ALL,68,31,0.4559
+"(job, month)",self-employed,apr,ALL,68,18,0.2647
+"(job, month)",self-employed,aug,ALL,164,17,0.1037
+"(job, month)",self-employed,dec,ALL,6,2,0.3333
+"(job, month)",self-employed,feb,ALL,86,10,0.1163
+"(job, month)",self-employed,jan,ALL,41,3,0.0732
+"(job, month)",self-employed,jul,ALL,198,16,0.0808
+"(job, month)",self-employed,jun,ALL,174,20,0.1149
+"(job, month)",self-employed,mar,ALL,13,6,0.4615
+"(job, month)",self-employed,may,ALL,278,18,0.0647
+"(job, month)",self-employed,nov,ALL,182,14,0.0769
+"(job, month)",self-employed,oct,ALL,22,14,0.6364
+"(job, month)",self-employed,sep,ALL,11,4,0.3636
+"(job, month)",services,apr,ALL,220,21,0.0955
+"(job, month)",services,aug,ALL,221,23,0.1041
+"(job, month)",services,dec,ALL,11,8,0.7273
+"(job, month)",services,feb,ALL,173,16,0.0925
+"(job, month)",services,jan,ALL,108,9,0.0833
+"(job, month)",services,jul,ALL,632,51,0.0807
+"(job, month)",services,jun,ALL,413,39,0.0944
+"(job, month)",services,mar,ALL,18,12,0.6667
+"(job, month)",services,may,ALL,1280,80,0.0625
+"(job, month)",services,nov,ALL,243,23,0.0947
+"(job, month)",services,oct,ALL,14,8,0.5714
+"(job, month)",services,sep,ALL,15,8,0.5333
+"(job, month)",student,apr,ALL,74,32,0.4324
+"(job, month)",student,aug,ALL,92,29,0.3152
+"(job, month)",student,dec,ALL,11,4,0.3636
+"(job, month)",student,feb,ALL,70,22,0.3143
+"(job, month)",student,jan,ALL,35,8,0.2286
+"(job, month)",student,jul,ALL,57,23,0.4035
+"(job, month)",student,jun,ALL,71,16,0.2254
+"(job, month)",student,mar,ALL,33,13,0.3939
+"(job, month)",student,may,ALL,202,29,0.1436
+"(job, month)",student,nov,ALL,41,14,0.3415
+"(job, month)",student,oct,ALL,30,13,0.4333
+"(job, month)",student,sep,ALL,42,16,0.381
+"(job, month)",technician,apr,ALL,338,77,0.2278
+"(job, month)",technician,aug,ALL,1472,121,0.0822
+"(job, month)",technician,dec,ALL,27,9,0.3333
+"(job, month)",technician,feb,ALL,327,52,0.159
+"(job, month)",technician,jan,ALL,196,16,0.0816
+"(job, month)",technician,jul,ALL,852,79,0.0927
+"(job, month)",technician,jun,ALL,541,60,0.1109
+"(job, month)",technician,mar,ALL,39,19,0.4872
+"(job, month)",technician,may,ALL,1622,109,0.0672
+"(job, month)",technician,nov,ALL,516,52,0.1008
+"(job, month)",technician,oct,ALL,84,47,0.5595
+"(job, month)",technician,sep,ALL,54,22,0.4074
+"(job, month)",unemployed,apr,ALL,50,15,0.3
+"(job, month)",unemployed,aug,ALL,71,15,0.2113
+"(job, month)",unemployed,dec,ALL,8,6,0.75
+"(job, month)",unemployed,feb,ALL,168,23,0.1369
+"(job, month)",unemployed,jan,ALL,77,9,0.1169
+"(job, month)",unemployed,jul,ALL,139,20,0.1439
+"(job, month)",unemployed,jun,ALL,134,17,0.1269
+"(job, month)",unemployed,mar,ALL,17,9,0.5294
+"(job, month)",unemployed,may,ALL,216,18,0.0833
+"(job, month)",unemployed,nov,ALL,111,12,0.1081
+"(job, month)",unemployed,oct,ALL,17,6,0.3529
+"(job, month)",unemployed,sep,ALL,16,8,0.5
+"(job, month)",unknown,apr,ALL,6,5,0.8333
+"(job, month)",unknown,aug,ALL,50,4,0.08
+"(job, month)",unknown,dec,ALL,1,0,0.0
+"(job, month)",unknown,feb,ALL,11,3,0.2727
+"(job, month)",unknown,jan,ALL,15,3,0.2
+"(job, month)",unknown,jul,ALL,25,1,0.04
+"(job, month)",unknown,jun,ALL,74,1,0.0135
+"(job, month)",unknown,mar,ALL,2,0,0.0
+"(job, month)",unknown,may,ALL,22,2,0.0909
+"(job, month)",unknown,nov,ALL,12,2,0.1667
+"(job, month)",unknown,oct,ALL,9,5,0.5556
+"(job, month)",unknown,sep,ALL,7,2,0.2857
+"(job, age_group)",admin.,ALL,middle_age,3470,394,0.1135
+"(job, age_group)",admin.,ALL,senior,65,22,0.3385
+"(job, age_group)",admin.,ALL,young,606,93,0.1535
+"(job, age_group)",blue-collar,ALL,middle_age,6810,451,0.0662
+"(job, age_group)",blue-collar,ALL,senior,81,13,0.1605
+"(job, age_group)",blue-collar,ALL,young,939,107,0.114
+"(job, age_group)",entrepreneur,ALL,middle_age,1085,89,0.082
+"(job, age_group)",entrepreneur,ALL,senior,21,6,0.2857
+"(job, age_group)",entrepreneur,ALL,young,80,6,0.075
+"(job, age_group)",housemaid,ALL,middle_age,884,62,0.0701
+"(job, age_group)",housemaid,ALL,senior,82,18,0.2195
+"(job, age_group)",housemaid,ALL,young,47,5,0.1064
+"(job, age_group)",management,ALL,middle_age,6757,852,0.1261
+"(job, age_group)",management,ALL,senior,158,53,0.3354
+"(job, age_group)",management,ALL,young,596,136,0.2282
+"(job, age_group)",retired,ALL,middle_age,926,84,0.0907
+"(job, age_group)",retired,ALL,senior,883,332,0.376
+"(job, age_group)",retired,ALL,young,3,0,0.0
+"(job, age_group)",self-employed,ALL,middle_age,1074,98,0.0912
+"(job, age_group)",self-employed,ALL,senior,31,15,0.4839
+"(job, age_group)",self-employed,ALL,young,138,29,0.2101
+"(job, age_group)",services,ALL,middle_age,2821,233,0.0826
+"(job, age_group)",services,ALL,senior,17,2,0.1176
+"(job, age_group)",services,ALL,young,510,63,0.1235
+"(job, age_group)",student,ALL,middle_age,181,38,0.2099
+"(job, age_group)",student,ALL,young,577,181,0.3137
+"(job, age_group)",technician,ALL,middle_age,5365,543,0.1012
+"(job, age_group)",technician,ALL,senior,74,20,0.2703
+"(job, age_group)",technician,ALL,young,629,100,0.159
+"(job, age_group)",unemployed,ALL,middle_age,881,129,0.1464
+"(job, age_group)",unemployed,ALL,senior,12,4,0.3333
+"(job, age_group)",unemployed,ALL,young,131,25,0.1908
+"(job, age_group)",unknown,ALL,middle_age,197,21,0.1066
+"(job, age_group)",unknown,ALL,senior,23,3,0.1304
+"(job, age_group)",unknown,ALL,young,14,4,0.2857
+"(month, age_group)",ALL,apr,middle_age,1940,319,0.1644
+"(month, age_group)",ALL,apr,senior,134,52,0.3881
+"(month, age_group)",ALL,apr,young,320,97,0.3031
+"(month, age_group)",ALL,aug,middle_age,4554,425,0.0933
+"(month, age_group)",ALL,aug,senior,273,70,0.2564
+"(month, age_group)",ALL,aug,young,159,50,0.3145
+"(month, age_group)",ALL,dec,middle_age,111,50,0.4505
+"(month, age_group)",ALL,dec,senior,37,19,0.5135
+"(month, age_group)",ALL,dec,young,30,15,0.5
+"(month, age_group)",ALL,feb,middle_age,1615,221,0.1368
+"(month, age_group)",ALL,feb,senior,139,61,0.4388
+"(month, age_group)",ALL,feb,young,324,67,0.2068
+"(month, age_group)",ALL,jan,middle_age,853,68,0.0797
+"(month, age_group)",ALL,jan,senior,61,23,0.377
+"(month, age_group)",ALL,jan,young,205,23,0.1122
+"(month, age_group)",ALL,jul,middle_age,4593,368,0.0801
+"(month, age_group)",ALL,jul,senior,156,41,0.2628
+"(month, age_group)",ALL,jul,young,788,104,0.132
+"(month, age_group)",ALL,jun,middle_age,3679,331,0.09
+"(month, age_group)",ALL,jun,senior,114,22,0.193
+"(month, age_group)",ALL,jun,young,444,88,0.1982
+"(month, age_group)",ALL,mar,middle_age,239,122,0.5105
+"(month, age_group)",ALL,mar,senior,70,40,0.5714
+"(month, age_group)",ALL,mar,young,82,37,0.4512
+"(month, age_group)",ALL,may,middle_age,9227,551,0.0597
+"(month, age_group)",ALL,may,senior,153,31,0.2026
+"(month, age_group)",ALL,may,young,1682,157,0.0933
+"(month, age_group)",ALL,nov,middle_age,3011,255,0.0847
+"(month, age_group)",ALL,nov,senior,78,34,0.4359
+"(month, age_group)",ALL,nov,young,54,27,0.5
+"(month, age_group)",ALL,oct,middle_age,360,161,0.4472
+"(month, age_group)",ALL,oct,senior,141,56,0.3972
+"(month, age_group)",ALL,oct,young,91,42,0.4615
+"(month, age_group)",ALL,sep,middle_age,269,123,0.4572
+"(month, age_group)",ALL,sep,senior,91,39,0.4286
+"(month, age_group)",ALL,sep,young,91,42,0.4615
+(job),admin.,ALL,ALL,4141,509,0.1229
+(job),blue-collar,ALL,ALL,7830,571,0.0729
+(job),entrepreneur,ALL,ALL,1186,101,0.0852
+(job),housemaid,ALL,ALL,1013,85,0.0839
+(job),management,ALL,ALL,7511,1041,0.1386
+(job),retired,ALL,ALL,1812,416,0.2296
+(job),self-employed,ALL,ALL,1243,142,0.1142
+(job),services,ALL,ALL,3348,298,0.089
+(job),student,ALL,ALL,758,219,0.2889
+(job),technician,ALL,ALL,6068,663,0.1093
+(job),unemployed,ALL,ALL,1024,158,0.1543
+(job),unknown,ALL,ALL,234,28,0.1197
+(month),ALL,apr,ALL,2394,468,0.1955
+(month),ALL,aug,ALL,4986,545,0.1093
+(month),ALL,dec,ALL,178,84,0.4719
+(month),ALL,feb,ALL,2078,349,0.1679
+(month),ALL,jan,ALL,1119,114,0.1019
+(month),ALL,jul,ALL,5537,513,0.0926
+(month),ALL,jun,ALL,4237,441,0.1041
+(month),ALL,mar,ALL,391,199,0.509
+(month),ALL,may,ALL,11062,739,0.0668
+(month),ALL,nov,ALL,3143,316,0.1005
+(month),ALL,oct,ALL,592,259,0.4375
+(month),ALL,sep,ALL,451,204,0.4523
+(age_group),ALL,ALL,middle_age,30451,2994,0.0983
+(age_group),ALL,ALL,senior,1447,488,0.3372
+(age_group),ALL,ALL,young,4270,749,0.1754
+(),ALL,ALL,ALL,36168,4231,0.117

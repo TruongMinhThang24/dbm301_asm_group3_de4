@@ -1,0 +1,12 @@
+job,obs_count,yes_count,yes_rate
+retired,883,332,0.376
+management,158,53,0.3354
+housemaid,82,18,0.2195
+blue-collar,81,13,0.1605
+technician,74,20,0.2703
+admin.,65,22,0.3385
+self-employed,31,15,0.4839
+unknown,23,3,0.1304
+entrepreneur,21,6,0.2857
+services,17,2,0.1176
+unemployed,12,4,0.3333

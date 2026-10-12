@@ -1,0 +1,13 @@
+job_category,job,obs_count,yes_count,yes_rate
+manual_service,services,3348,298,0.089
+manual_service,housemaid,1013,85,0.0839
+manual_service,blue-collar,7830,571,0.0729
+not_in_labour,student,758,219,0.2889
+not_in_labour,retired,1812,416,0.2296
+not_in_labour,unemployed,1024,158,0.1543
+self_employed_owner,self-employed,1243,142,0.1142
+self_employed_owner,entrepreneur,1186,101,0.0852
+unknown,unknown,234,28,0.1197
+white_collar,management,7511,1041,0.1386
+white_collar,admin.,4141,509,0.1229
+white_collar,technician,6068,663,0.1093

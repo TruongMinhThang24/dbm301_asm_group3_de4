@@ -1,0 +1,6 @@
+job_category,obs_count,yes_count,yes_rate
+not_in_labour,3594,793,0.2206
+white_collar,17720,2213,0.1249
+unknown,234,28,0.1197
+self_employed_owner,2429,243,0.1
+manual_service,12191,954,0.0783

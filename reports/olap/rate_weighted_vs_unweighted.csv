@@ -1,0 +1,13 @@
+job,yes_rate_dung (tổng/tổng),trung_binh_ty_le (SAI),chenh_lech,so_o_nho_hon_10_obs
+admin.,0.1229,0.3036,0.1807,12
+blue-collar,0.0729,0.2821,0.2092,14
+entrepreneur,0.0852,0.2692,0.184,19
+housemaid,0.0839,0.2222,0.1383,17
+management,0.1386,0.3151,0.1765,5
+retired,0.2296,0.2778,0.0482,5
+self-employed,0.1142,0.319,0.2048,19
+services,0.089,0.2316,0.1426,13
+student,0.2889,0.3171,0.0282,5
+technician,0.1093,0.2809,0.1716,12
+unemployed,0.1543,0.2949,0.1406,17
+unknown,0.1197,0.2357,0.116,20

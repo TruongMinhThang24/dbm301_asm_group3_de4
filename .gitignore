@@ -1,6 +1,7 @@
 # Data
 
 /data/interim/*.csv
+/data/interim/*.sqlite*
 !/data/raw/data_manifest.txt
 !/data/raw/manifest.json
 !/data/processed/
