@@ -1,0 +1,37 @@
+{
+  "seed": 42,
+  "python": "3.11.9",
+  "pandas": "3.0.6",
+  "mlxtend": "0.25.0",
+  "source": "data\\processed\\processed_exploration.csv",
+  "source_sha256": "d5ffaf661ce284942c6764225502fe69d33524270fff1da3ffb103fc7d8cc99f",
+  "n_observations": 36168,
+  "excluded_columns": [
+    "previous"
+  ],
+  "max_itemset_length": 3,
+  "configs": [
+    {
+      "config": "A",
+      "min_support": 0.01,
+      "min_confidence": 0.6,
+      "max_len": 3
+    },
+    {
+      "config": "B",
+      "min_support": 0.02,
+      "min_confidence": 0.6,
+      "max_len": 3
+    },
+    {
+      "config": "C",
+      "min_support": 0.03,
+      "min_confidence": 0.6,
+      "max_len": 3
+    }
+  ],
+  "minimum_supporting_observations": 100,
+  "unique_target_rules": 796,
+  "final_rules": 10,
+  "low_count_rules": 0
+}

@@ -1,0 +1,4 @@
+config,min_support,min_confidence,max_len,minimum_joint_count,frequent_itemsets,rules_confidence_pass,target_rules,target_yes,target_no,low_count_rules,eligible_rules,mining_seconds,total_seconds,itemsets_length_1,itemsets_length_2,itemsets_length_3
+A,0.01,0.6,3,362,6696,7264,796,9,787,0,469,0.4857438000035472,1.6055938999998034,56,885,5755
+B,0.02,0.6,3,724,4483,5684,619,4,615,0,377,0.45332950000010896,1.4584685000008903,52,680,3751
+C,0.03,0.6,3,1086,3418,4663,505,0,505,0,316,0.3335942999983672,1.09818660000019,49,563,2806
