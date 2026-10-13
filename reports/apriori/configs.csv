@@ -1,0 +1,4 @@
+config,min_support,min_confidence,max_len
+A,0.01,0.6,3
+B,0.02,0.6,3
+C,0.03,0.6,3

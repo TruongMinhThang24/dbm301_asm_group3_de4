@@ -1,0 +1,11 @@
+rule_id,lhs,rhs,supporting_observations,low_count_lt_100,minimum_count_A,pass_support_A,minimum_count_B,pass_support_B,minimum_count_C,pass_support_C
+R01,housing=no & poutcome=success,y=yes,582,False,362,True,724,False,1086,False
+R02,campaign_group=1_call & poutcome=success,y=yes,458,False,362,True,724,False,1086,False
+R03,marital=married & poutcome=success,y=yes,430,False,362,True,724,False,1086,False
+R04,loan=no & poutcome=success,y=yes,743,False,362,True,724,True,1086,False
+R05,contact=cellular & poutcome=success,y=yes,715,False,362,True,724,False,1086,False
+R06,default=no & poutcome=success,y=yes,779,False,362,True,724,True,1086,False
+R07,contacted_before=yes & poutcome=success,y=yes,779,False,362,True,724,True,1086,False
+R08,poutcome=success,y=yes,779,False,362,True,724,True,1086,False
+R09,age_group=middle_age & poutcome=success,y=yes,514,False,362,True,724,False,1086,False
+R10,contact=unknown & marital=married,y=no,6200,False,362,True,724,True,1086,True
