@@ -1,0 +1,66 @@
+
+Apriori
+=======
+
+Minimum support: 0.01 (362 instances)
+Minimum metric <confidence>: 0.6
+Number of cycles performed: 2
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 17
+
+Size of set of large itemsets L(2): 31
+
+Size of set of large itemsets L(3): 14
+
+Best rules found:
+
+    1. housing=yes campaign_group=4plus_calls poutcome=unknown 3451 ==> y=no 3277    conf:(0.95)
+    2. housing=yes campaign_group=4plus_calls 4037 ==> y=no 3822    conf:(0.95)
+    3. housing=yes campaign_group=2_3_calls poutcome=unknown 6442 ==> y=no 6026    conf:(0.94)
+    4. housing=yes poutcome=unknown 16080 ==> y=no 15034    conf:(0.93)
+    5. campaign_group=4plus_calls poutcome=unknown 6871 ==> y=no 6414    conf:(0.93)
+    6. housing=yes campaign_group=1_call poutcome=unknown 6187 ==> y=no 5731    conf:(0.93)
+    7. campaign_group=4plus_calls 7707 ==> y=no 7137    conf:(0.93)
+    8. housing=yes campaign_group=2_3_calls 8062 ==> y=no 7447    conf:(0.92)
+    9. housing=yes 20182 ==> y=no 18626    conf:(0.92)
+   10. housing=yes poutcome=failure 2767 ==> y=no 2542    conf:(0.92)
+   11. housing=yes campaign_group=1_call poutcome=failure 1337 ==> y=no 1227    conf:(0.92)
+   12. housing=no campaign_group=4plus_calls poutcome=unknown 3420 ==> y=no 3137    conf:(0.92)
+   13. campaign_group=4plus_calls poutcome=failure 447 ==> y=no 410    conf:(0.92)
+   14. housing=yes campaign_group=2_3_calls poutcome=failure 1092 ==> y=no 997    conf:(0.91)
+   15. housing=yes campaign_group=2_3_calls poutcome=other 397 ==> y=no 362    conf:(0.91)
+   16. campaign_group=2_3_calls poutcome=unknown 11888 ==> y=no 10834    conf:(0.91)
+   17. housing=yes campaign_group=1_call 8083 ==> y=no 7357    conf:(0.91)
+   18. housing=yes poutcome=other 962 ==> y=no 874    conf:(0.91)
+   19. poutcome=unknown 29589 ==> y=no 26860    conf:(0.91)
+   20. housing=no campaign_group=4plus_calls 3670 ==> y=no 3315    conf:(0.9)
+   21. campaign_group=2_3_calls 14435 ==> y=no 12820    conf:(0.89)
+   22. campaign_group=1_call poutcome=unknown 10830 ==> y=no 9612    conf:(0.89)
+   23. housing=no campaign_group=2_3_calls poutcome=unknown 5446 ==> y=no 4808    conf:(0.88)
+   24. campaign_group=2_3_calls poutcome=failure 1503 ==> y=no 1322    conf:(0.88)
+   25. poutcome=failure 3889 ==> y=no 3411    conf:(0.88)
+   26. housing=no poutcome=unknown 13509 ==> y=no 11826    conf:(0.88)
+   27. campaign_group=1_call poutcome=failure 1939 ==> y=no 1679    conf:(0.87)
+   28. campaign_group=1_call 14026 ==> y=no 11980    conf:(0.85)
+   29. housing=no campaign_group=2_3_calls 6373 ==> y=no 5373    conf:(0.84)
+   30. housing=no campaign_group=1_call poutcome=unknown 4643 ==> y=no 3881    conf:(0.84)
+   31. poutcome=other 1485 ==> y=no 1240    conf:(0.84)
+   32. housing=no 15986 ==> y=no 13311    conf:(0.83)
+   33. campaign_group=2_3_calls poutcome=other 611 ==> y=no 506    conf:(0.83)
+   34. campaign_group=1_call poutcome=other 579 ==> y=no 469    conf:(0.81)
+   35. housing=no campaign_group=1_call 5943 ==> y=no 4623    conf:(0.78)
+   36. housing=no poutcome=failure 1122 ==> y=no 869    conf:(0.77)
+   37. housing=no campaign_group=1_call poutcome=failure 602 ==> y=no 452    conf:(0.75)
+   38. housing=no poutcome=other 523 ==> y=no 366    conf:(0.7)
+   39. housing=no poutcome=success 832 ==> y=yes 582    conf:(0.7)
+   40. campaign_group=1_call poutcome=success 678 ==> y=yes 458    conf:(0.68)
+   41. poutcome=success 1205 ==> y=yes 779    conf:(0.65)
+
+=== Evaluation ===
+
+Elapsed time: 0.244s
+
+
+STDERR:

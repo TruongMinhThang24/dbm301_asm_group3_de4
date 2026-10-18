@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "python": "3.12.6",
+  "pandas": "3.0.6",
+  "mlxtend": "0.25.0",
+  "exploration_sha256": "d5ffaf661ce284942c6764225502fe69d33524270fff1da3ffb103fc7d8cc99f",
+  "test_sha256": "c68a0c3ab44eb7b480504f3d3c3c99c224beb610a7d6309a99105c08dd1af2f9",
+  "holdout_rule_ids": [
+    "R01",
+    "R02",
+    "R04",
+    "R08",
+    "R10"
+  ]
+}
